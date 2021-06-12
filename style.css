@@ -261,6 +261,10 @@ body {
   padding-bottom: 160px;
 }
 
+.portfolio h3 {
+  padding-top: 50px;
+}
+
 .projects {
   margin: 0;
   padding: 0;
